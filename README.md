@@ -29,8 +29,17 @@
 
 ---
 
-<img height='200px' src="https://github-readme-stats.vercel.app/api?username=yash3497&show_icons=true&theme=radical"><img height="200px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash3497&show_icons=true&theme=radical">
+<img height='200px' src="https://github-readme-stats.vercel.app/api?username=yash3497&show_icons=true&theme=radical">
+
+
+<img height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash3497&show_icons=true&theme=radical">
 
 
 
+
+
+
+
+
+---
 
