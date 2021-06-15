@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/yash3497)
 
-- 💬 Ask me about **Java, Firebase**
+- 💬 Ask me about **Java, Firebase,Android Dev**
 
 - 📫 How to reach me **https://www.linkedin.com/in/yash-gupta-84a5511b8/**
 
