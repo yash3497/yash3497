@@ -36,10 +36,10 @@
 <img height='200px' src="https://github-readme-stats.vercel.app/api?username=yash3497&show_icons=true&theme=radical">
 
 
-<img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash3497&show_icons=true&theme=radical" >
+<img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash3497&show_icons=true&theme=radical" alt="yash3497" >
 
 
-<img height ="200px" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=yash3497&theme=radical" alt="yash3497" > 
+<img height ="200px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash3497&theme=radical" alt="yash3497" > 
 
 ---
 
