@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Yash Gupta</h1>
-<h3 align="center">A passionate full stack Android developer</h3>
+<h3 align="center">A passionate full stack Flutter developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,13 +14,13 @@
 
 <img align="right" height='180px' alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
 
-- 🔭 I’m currently working on **Music APP**
+- 🔭 I’m currently working on **Electric Scooter App**
  
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter Advance**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/yash3497)
 
-- 💬 Ask me about **Java, Firebase,Android Dev**
+- 💬 Ask me about **Java, Firebase,Android Dev,Flutter**
 
 - 📫 How to reach me **https://www.linkedin.com/in/yash-gupta-84a5511b8/**
 
