@@ -14,9 +14,9 @@
 
 <img align="right" height='180px' alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
 
-- 🔭 I’m currently working on **Electric Scooter App**
+- 🔭 I’m currently working on **Auto Booking App**
  
-- 🌱 I’m currently learning **Flutter Advance**
+- 🌱 I’m currently learning **Flutter Bloc**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/yash3497)
 
