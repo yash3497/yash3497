@@ -1,50 +1,71 @@
-
 <h1 align="center">Hi 👋, I'm Yash Gupta</h1>
-<h3 align="center">A passionate full stack Flutter developer</h3>
+<h3 align="center">🚀 Passionate Full Stack Flutter Developer | Android & iOS | Firebase | API Integrations</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yash-gupta-84a5511b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-gupta-84a5511b8/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15813123/yash-gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15813123/yash-gupta" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCEZFp5sO1H9RU160Agb3VuA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucezfp5so1h9ru160agb3vua" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/yash_gupta879111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@yash_gupta879111" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding-gif" width="400"/>
 </p>
 
 ---
 
-<img align="right" height='180px' alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
-
-- 🔭 I’m currently working on **Auto Booking App**
- 
-- 🌱 I’m currently learning **Flutter Bloc**
-
-- 👨‍💻 All of my projects are available at [Github](https://github.com/yash3497)
-
-- 💬 Ask me about **Java, Firebase,Android Dev,Flutter**
-
-- 📫 How to reach me **https://www.linkedin.com/in/yash-gupta-84a5511b8/**
+### 🔗 Connect with Me:
+<p align="left">
+  <a href="https://linkedin.com/in/yash-gupta-84a5511b8/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
+  <a href="https://stackoverflow.com/users/15813123/yash-gupta" target="blank"><img src="https://img.shields.io/badge/StackOverflow-Ask-orange?logo=stackoverflow" /></a>
+  <a href="https://www.youtube.com/channel/UCEZFp5sO1H9RU160Agb3VuA" target="blank"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube" /></a>
+  <a href="https://www.hackerrank.com/yash_gupta879111" target="blank"><img src="https://img.shields.io/badge/Hackerrank-Practice-2EC866?logo=hackerrank" /></a>
+</p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+### 🧠 About Me
 
----
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yash3497&label=Profile%20views&color=0e75b6&style=flat" alt="yash3497" /> </p>
-
-
-<img  align="center" src="https://github-readme-stats.vercel.app/api?username=yash3497&show_icons=true&theme=radical">
-
-
-<img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash3497&show_icons=true&theme=radical" alt="yash3497" >
-
-
-<img height ="200px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash3497&theme=radical" alt="yash3497" > 
+- 🔭 Currently working on **Auto Booking App**
+- 🌱 Learning **Flutter BLoC Architecture**
+- 💬 Ask me about: **Flutter, Firebase, Android, APIs, Java**
+- 📂 Check out all my work here: [GitHub Projects](https://github.com/yash3497)
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/yash-gupta-84a5511b8/)
 
 ---
 
+### 🛠️ Languages & Tools
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yash3497&theme=radical)](https://github.com/yash3497/github-profile-trophy)
+<p align="left">
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+</p>
 
+---
 
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yash3497&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash3497&layout=compact&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash3497&theme=radical" width="60%" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yash3497&theme=radical&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yash3497&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
