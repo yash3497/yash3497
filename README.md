@@ -33,9 +33,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash3497&label=Profile%20views&color=0e75b6&style=flat" alt="yash3497" /> </p>
 
 
-<img  align="center" src="https://github-readme-stats.vercel.app/api?username=yash3497&show_icons=true&theme=radical">
-
-
 <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash3497&show_icons=true&theme=radical" alt="yash3497" >
 
 
